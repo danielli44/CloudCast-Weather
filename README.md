@@ -13,7 +13,7 @@ Features
 
 ## Video Walkthrough
 
-https://github.com/user-attachments/assets/92feef1c-1aa0-4032-95c8-78b9dc02467f
+![giphy (1)](https://github.com/user-attachments/assets/d41ccfa5-3936-4dd2-baf1-5569547f82ad)
 
 
 
